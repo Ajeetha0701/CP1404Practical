@@ -1,6 +1,6 @@
 """
 CP1404/CP5632 - Practical
-Broken program to determine score status
+Broken program to the determine score status
 """
 
 # TODO: Fix this!
